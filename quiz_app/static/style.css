@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    /* static/styles/style.css */
+
+
+    background-image: url('./imagens/Image.jpg');
+    background-size: cover; /* Cobrir toda a página */
+    background-position: center; /* Centralizar a imagem de fundo */
+    
+}
+
+
+
+h1 {
+    color: #1ece47;
+    font-size: 40px;
+    
+}
+
+button {
+    margin-top: 40px;
+}
